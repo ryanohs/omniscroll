@@ -14,7 +14,7 @@ To run, use the command `./omniscroll` in Terminal.
 
 This utility runs from Terminal. You must grant Terminal access to the Accessibility APIs in System Preferences > Security > Accessibility.
 
-!(Permissions.png)
+![System Preferences dialog](Permissions.png)
 
 # Future enhancements
 
