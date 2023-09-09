@@ -16,8 +16,18 @@ This utility runs from Terminal. You must grant Terminal access to the Accessibi
 
 ![System Preferences dialog](Permissions.png)
 
+# Known issues
+
+In Terminal, middle click pastes the clipboard.
+
+In Visual Studio Code, middle click creates additional cursors. To workaround this issue, set Multi Cursor Limit to 1 in settings.
+
 # Future enhancements
 
 I would like to be able to run this as a menu bar app.
 
 I do not have an Apple developer account to sign and distribute a binary version.
+
+Add keyboard shortcut to enable or disable.
+
+Add momentum scrolling like on mobile.
