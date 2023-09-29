@@ -22,6 +22,8 @@ In Terminal, middle click pastes the clipboard.
 
 In Visual Studio Code, middle click creates additional cursors. To workaround this issue, set Multi Cursor Limit to 1 in settings.
 
+In Rider, middle click creates additional cursors and the scroll functionality does not work on any scrollable region in Rider. No known workaround.
+
 # Future enhancements
 
 I would like to be able to run this as a menu bar app.
